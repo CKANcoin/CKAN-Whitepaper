@@ -9,25 +9,20 @@ Genghis Khan, born as Temüjin in the Mongolian steppes in 1162, rose to become 
 The primary objectives of CKAN include establishing a strong community, providing utility beyond traditional meme coins, and seamlessly integrating into gaming ecosystems. Through this, CKAN aims to be a symbol of strength and innovation within the broader cryptocurrency space.
 ________________________________________
 2. Tokenomics
-2.1 Total Supply: 1 Billion CKAN
-CKAN features a fixed total supply of 1 billion tokens as defined in the smart contract, ensuring scarcity and contributing to its intrinsic value. This total supply guarantees no inflationary growth, providing stability and predictability to token holders.
-2.2 Circulating Supply: 300 Million CKAN
-At launch, 300 million CKAN tokens will be released into the market to serve as the circulating supply. This includes allocations for the liquidity pool, private sales, and community initiatives.
-•	Liquidity Pool: 100 Million CKAN
-(Allocated to facilitate early trading on platforms like PancakeSwap.)
-•	Public Allocation (ICO/Market Sales): 200 Million CKAN
-(Tokens available for direct sale, staking rewards, or ICO buyers.)
-2.3 Reserved Tokens (700 Million CKAN)
-•	Reserved for Development and Ecosystem Growth: 100 Million CKAN
-(Dedicated to future technical upgrades, platform enhancements, and ecosystem expansion.)
-•	Community and Marketing Initiatives: 100 Million CKAN
-(Set aside for campaigns, giveaways, and strategic initiatives to promote awareness and adoption.)
-•	Team and Advisors: 100 Million CKAN
-(Allocated with vesting schedules to ensure long-term commitment and alignment with the project’s success.)
-•	Future Partnerships and Collaborations: 100 Million CKAN
-(Reserved for partnerships, strategic collaborations, and listing on exchanges.)
-•	Locked Reserve for Future Utility or Burn: 300 Million CKAN
-(Held for long-term reserves or future uses such as burns or incentives.)
+   
+Tokenomics Table
+Category	Tokens (CKAN)	% of Supply	Notes
+Total Supply	1 Billion	100%	Fixed supply ensures scarcity.
+Circulating Supply at Launch	300 Million	30%	Includes liquidity pool and public sales.
+- Liquidity Pool	100 Million	10%	Allocated to facilitate trading. Partially locked.
+- Public Allocation (ICO/Sales)	200 Million	20%	Includes staking rewards and ICO buyers.
+Reserved Tokens	700 Million	70%	Reserved for growth, partnerships, and future utility.
+- Development/Ecosystem Growth	100 Million	10%	For upgrades and platform enhancements.
+- Community/Marketing Initiatives	100 Million	10%	For campaigns, giveaways, and promotion.
+- Team and Advisors	100 Million	10%	Vesting over 2-3 years, starting after 12 months.
+- Partnerships/Collaborations	100 Million	10%	For partnerships and exchange listings.
+- Locked Reserve	300 Million	30%	For long-term utility, burns, or incentives.
+
 ________________________________________
 3. Blockchain and Technology
 3.1 Blockchain Integration: Binance Smart Chain (BSC)
